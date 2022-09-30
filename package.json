@@ -1,0 +1,26 @@
+{
+  "name": "smartcontract",
+  "version": "1.0.0",
+  "description": "study smart contract",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinas1004/SmartContract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinas1004/SmartContract/issues"
+  },
+  "homepage": "https://github.com/jinas1004/SmartContract#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20",
+    "web3": "^1.8.0"
+  }
+}
